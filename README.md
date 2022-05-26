@@ -1,4 +1,4 @@
-### Hi Guillermo Forero 👋
+# ¡Hi! Guillermo Forero 👋
 Professional graphic designer and web developer Front End Designer, with more than 6 years of experience, magister in mobile and web app accesibility, you can know my work
 
 - 🔭 I’m currently working on ...
